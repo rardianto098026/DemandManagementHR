@@ -1,0 +1,255 @@
+﻿<%@ Page Language="vb" AutoEventWireup="false" CodeBehind="Frm_List_Empl.aspx.vb" Inherits="DemandManagementHR.Frm_List_Empl" %>
+<%@ Register TagName="My" TagPrefix="Menu" Src="Menu/Menu.ascx" %>
+<%@ Register TagName="My" TagPrefix="Head" Src="Menu/Header.ascx" %>
+<%@ Register TagName="My" TagPrefix="Footer" Src="~/Menu/Footer.ascx" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head id="Head1" runat="server">
+    <title></title> 
+    <link href="css/Surrounding.css" rel="stylesheet" type="text/css"/>
+<link rel="stylesheet" href="css/jquery-ui.css" />
+<link rel="stylesheet" href="css/style.css" />
+<script type="text/javascript" src="js/jquery-1.10.2.js"></script>
+<script type="text/javascript" src="js/jquery-ui.js"></script>
+<link rel="stylesheet" href="css/style.css" />
+  <link rel="shortcut icon" href="Images/icon.ico" />
+  <script type="text/javascript" src="http://code.jquery.com/jquery-1.9.1.js"></script>
+  <script type="text/javascript" src="http://code.jquery.com/ui/1.10.3/jquery-ui.js"></script>
+  
+<script type="text/javascript">
+    function openWindow(idx) {
+        // Note: you cannot use ~/ at client side.
+        var url = "PopUpEmpl.aspx?idx=" + idx.toString();
+        window.open(url, "", "width=1800,height=1600,titlebar=no'");
+    }
+ </script>
+</head>
+<body>
+    <form id="form1" runat="server">
+    <div>
+     <table width="100%" align="center" cellpadding="0" cellspacing="0">
+            <tr>
+               
+                <td align="center">
+                 <Head:My ID="head" runat="server" />
+                 </td>
+               
+            </tr>
+            
+            <tr>
+                
+                    <td align="left" bgcolor="#0055AA">
+                        <Menu:My ID="My1" runat="Server" />
+                    </td>
+                   
+            </tr>
+            
+    </table> 
+        <table width="1200px" align="center" cellpadding="0" cellspacing="0">
+            <table width="1200px" align="center" cellpadding="0" cellspacing="0">
+                        <tr>
+                            <td >
+                            </td>
+                             <td align ="left" width="1500px" height="50px">
+                                 Update Notif Email 
+                             </td>
+                        </tr>
+                         <tr>
+                            <td width="1%">
+                            </td>
+                            <td align="right" width="1%">
+                                <asp:CheckBox ID="chkEmplID" runat="server" Text="" TextAlign="left" />
+                            </td>
+                            <td width="1%"  align="left">
+                                <asp:Label ID="lblEmplID" runat="server" Text="Employee ID"></asp:Label><asp:Label ID="lblErrEmplID" runat="server" Text="." Visible="false" ForeColor="Red"></asp:Label>
+                            </td>
+                            <td width="2%" align ="left">
+                                <asp:TextBox ID="txtEmplID" runat="server" CssClass="textbox"></asp:TextBox>
+                                <asp:Label ID="lblErrEmplID2" runat="server" ForeColor="Red" Text="." 
+                                    Visible="false"></asp:Label>
+                             </td>
+                             
+                            <td align="right" width="1%">
+                                <asp:CheckBox ID="chkEmplName" runat="server" Text="" TextAlign=left />
+                            </td>
+                            <td width="1%" align="left">
+                                <asp:Label ID="lblEmplName" runat="server" Text="EmployeeName"></asp:Label><asp:Label ID="lblErrEmplName" runat="server" Text="." Visible="false" ForeColor="Red"></asp:Label>
+                            </td>
+                            <td width="10%" align ="left">
+                                <asp:TextBox ID="txtEmplName" runat="server" CssClass="textbox"></asp:TextBox>
+                                <asp:Label ID="lblErrEmplName2" runat="server" ForeColor="Red" Text="." 
+                                    Visible="false"></asp:Label>
+                             </td>
+                          </tr>
+                          <tr>
+                            <td >
+                            </td>
+                             <td align ="left" width="1500px" height="20px">
+                            <asp:LinkButton ID="Search" OnClick="Search_Click" runat="server" Width="50px">SEARCH</asp:LinkButton>
+                            <%--<asp:LinkButton ID="SimpleSearch" runat="server" Width="87px" >SIMPLE SEARCH</asp:LinkButton>
+                            --%>
+                            <asp:Button ID="btn_Hidden" runat="server" Text="Button" style="display:none" OnClick="btn_Hidden_Click" />
+           
+                             </td>
+                        </tr>
+        </table>
+        <div style='overflow:auto;height:100%;width:1200px;text-align:center;margin:0 auto';align="center" >
+                 <asp:Gridview ID="dgRekeningKoran" runat="server" 
+                            AutoGenerateColumns="False" BackColor="White" BorderColor="#CCCCCC" 
+                            BorderStyle="None" BorderWidth="1px" CellPadding="1" CssClass="tDatagridITReview" 
+                            Height="100%" AllowSorting="True" PageSize="10" AllowPaging="true"
+                            Width="100%">
+                            <HeaderStyle CssClass="GridHeader" ForeColor="White" Font-Bold="True" HorizontalAlign="Center" />
+                            <FooterStyle BackColor="White" ForeColor="#000066"/>
+                           
+                            <Columns>	
+                                <asp:TemplateField HeaderStyle-Width="10px" HeaderText="EDIT">
+                                     <ItemTemplate>
+                                          <asp:ImageButton ID="ImageButton1" runat="server" CommandName="cmdEdit"
+                                             ImageUrl="~/images/Edit2.jpg" Width="20px" OnClick='<%#Eval("IDX", "openWindow({0})")%>' />                                        
+                                    </ItemTemplate>
+                                </asp:TemplateField>
+                                
+                                	
+                                <asp:BoundField  DataField="IDX" HeaderText="IDX" HeaderStyle-Width="10px" SortExpression="IDX ASC">
+                                <HeaderStyle Width="10px" CssClass="hidden"></HeaderStyle>
+                                <ItemStyle CssClass="hidden"/>
+                                </asp:BoundField>
+                                
+                                <asp:BoundField  DataField="NUMBER" HeaderText="No." HeaderStyle-Width="10px" SortExpression="NUMBER ASC" Visible="true">
+                                <HeaderStyle Width="10px"></HeaderStyle>
+                                </asp:BoundField>
+                               
+								<asp:BoundField  DataField="EmployeeID" HeaderText="Employee ID" HeaderStyle-Width="100px" SortExpression="EmployeeID ASC" Visible="true">
+                                <HeaderStyle Width="100px"></HeaderStyle>
+                                </asp:BoundField>
+                                
+                                <asp:BoundField  DataField="EmployeeName" HeaderText="Employee Name" HeaderStyle-Width="100px" SortExpression="EmployeeName ASC" Visible="true">
+                                <HeaderStyle Width="100px"></HeaderStyle>
+                                </asp:BoundField>
+                                
+                                <asp:BoundField  DataField="AreaName" HeaderText="Area Name" HeaderStyle-Width="200px" SortExpression="AreaName ASC" Visible="true">
+                                <HeaderStyle Width="200px"></HeaderStyle>
+                                </asp:BoundField>
+                                
+                                <asp:BoundField  DataField="DepartmentName" HeaderText="Department" HeaderStyle-Width="200px" SortExpression="DepartmentName ASC" Visible="true">
+                                <HeaderStyle Width="200px"></HeaderStyle>
+                                </asp:BoundField>
+                                
+                                <asp:BoundField  DataField="JoinDate" HeaderText="Join Date" HeaderStyle-Width="10px" SortExpression="JoinDate ASC" Visible="true">
+                                <HeaderStyle Width="10px"></HeaderStyle>
+                                </asp:BoundField>
+                                
+                                <asp:BoundField  DataField="EndDate" HeaderText="Expiry Date" HeaderStyle-Width="100px" SortExpression="EndDate ASC" Visible="true">
+                                <HeaderStyle Width="100px"></HeaderStyle>
+                                </asp:BoundField>
+                                
+                                <asp:BoundField  DataField="Entity" HeaderText="Entity" HeaderStyle-Width="90px" SortExpression="Entity ASC" Visible="true">
+                                <HeaderStyle Width="90px"></HeaderStyle>
+                                </asp:BoundField>
+                                
+                                <asp:BoundField  DataField="StatusEmployee" HeaderText="Status Employee" HeaderStyle-Width="100px" SortExpression="StatusEmployee ASC" Visible="true">
+                                <HeaderStyle Width="100px"></HeaderStyle>
+                                </asp:BoundField>
+                                
+                                <asp:BoundField  DataField="Duration" HeaderText="Duration" HeaderStyle-Width="100px" SortExpression="Duration ASC" Visible="true">
+                                <HeaderStyle Width="100px"></HeaderStyle>
+                                </asp:BoundField>
+                             
+                                <asp:BoundField  DataField="EmailManager" HeaderText="Email Manager" HeaderStyle-Width="700px" SortExpression="EmailManager ASC" Visible="true">
+                                <HeaderStyle Width="700px"></HeaderStyle>
+                                </asp:BoundField>
+                                
+                                <asp:BoundField  DataField="EmailHR" HeaderText="Email HR" HeaderStyle-Width="100px" SortExpression="EmailHR ASC" Visible="true">
+                                <HeaderStyle Width="100px"></HeaderStyle>
+                                </asp:BoundField>
+                             
+                                <asp:BoundField  DataField="1 Days" HeaderText="1 Days" HeaderStyle-Width="100px" SortExpression="1 Days ASC" Visible="true">
+                                <HeaderStyle Width="100px"></HeaderStyle>
+                                </asp:BoundField>
+                                
+                                <asp:BoundField  DataField="1 Week" HeaderText="1 Week" HeaderStyle-Width="100px" SortExpression="1 Week ASC" Visible="true">
+                                <HeaderStyle Width="100px"></HeaderStyle>
+                                </asp:BoundField>
+                                
+                                <asp:BoundField  DataField="2 Week" HeaderText="2 Week" HeaderStyle-Width="90px" SortExpression="2 Week ASC" Visible="true">
+                                <HeaderStyle Width="90px"></HeaderStyle>
+                                </asp:BoundField>
+                                
+                                <asp:BoundField  DataField="3 Week" HeaderText="3 Week" HeaderStyle-Width="100px" SortExpression="3 Week ASC" Visible="true">
+                                <HeaderStyle Width="100px"></HeaderStyle>
+                                </asp:BoundField>
+                                
+                                <asp:BoundField  DataField="1 Month" HeaderText="1 Month" HeaderStyle-Width="100px" SortExpression="1 Month ASC" Visible="true">
+                                <HeaderStyle Width="100px"></HeaderStyle>
+                                </asp:BoundField>
+                                
+                                <asp:BoundField  DataField="3 Month" HeaderText="3 Months" HeaderStyle-Width="100px" SortExpression="3 Month ASC" Visible="true">
+                                <HeaderStyle Width="100px"></HeaderStyle>
+                                </asp:BoundField>
+                                
+                           </Columns>
+                         <PagerSettings Visible="false"/>
+                       </asp:Gridview>
+              </div>
+               <div style='overflow:auto;width:1000px;text-align:center;margin:0 auto';align="center">
+                    <asp:Panel ID="pnlfooter" runat="server">
+                        <table id="tablepaging" runat="server" width="1000px">
+                        <tr>
+                            <td align="left" width="15px">
+                                <asp:LinkButton ID="lbFirst" runat="server">First </asp:LinkButton>
+                            </td>
+                            <td align="left" width="10px">
+                                <asp:LinkButton ID="lbPrev" runat="server">Prev </asp:LinkButton>
+                            </td>
+                            <td align="center" width="120px" valign="middle" >
+                                <input type="text" class="textbox_2" runat="server" id="txtGO"/> OF 
+                                <asp:Label ID="lblTotal" runat="server" Text="-"></asp:Label>
+                                &nbsp; <asp:LinkButton ID="lnkGo" runat="server">GO </asp:LinkButton>
+                            </td>
+                            <td align="left" width="10px">
+                                 <asp:LinkButton ID="lnkNext" runat="server">Next </asp:LinkButton>
+                            </td>
+                             <td align="left" width="10px">
+                                 <asp:LinkButton ID="lnkLast" runat="server">Last </asp:LinkButton>
+                            </td>
+                            <td align="left">
+                                &nbsp;&nbsp;Total Records : <asp:Label ID="lblTotalRecords" runat="server" Text="0 record(s)"></asp:Label>
+                            </td>
+                            <td>
+                            </td>
+                        </tr>
+                        
+                    </table>
+                   </asp:Panel>
+                   
+                   <table width="1200px" align="center" cellpadding="0" cellspacing="0">
+                <tr>
+                    
+                    <td height="30" >
+                        Data per View :
+                        <asp:DropDownList ID="ddl_View" runat="server" AutoPostBack="true">
+                            <asp:ListItem>-- Choose --</asp:ListItem>
+                            <asp:ListItem>10</asp:ListItem>
+                            <asp:ListItem>20</asp:ListItem>
+                            <asp:ListItem>50</asp:ListItem>
+                            <asp:ListItem>70</asp:ListItem>
+                            <asp:ListItem>100</asp:ListItem>
+                        </asp:DropDownList>
+                    </td>
+                    <td background="Images/borderRight.gif" width="21" style="height: 13px">
+                    </td>
+                </tr>
+                
+        </table>
+                </div>         
+    </div>
+     <div>
+     <footer:my ID="My3" runat="server" /> 
+     </div>   
+    </form>
+</body>
+</html>

@@ -1,0 +1,151 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>C:\Project\OTHER\Publish\HR\ReminderHR_UAT</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="AddMasterMenu.aspx">
+      <publishTime>11/03/2016 15:16:14</publishTime>
+    </File>
+    <File Include="AddMasterMenuChild.aspx">
+      <publishTime>11/03/2016 15:17:00</publishTime>
+    </File>
+    <File Include="bin/AXA.Framework.DataAccess.dll">
+      <publishTime>09/04/2018 11:47:38</publishTime>
+    </File>
+    <File Include="bin/DemandManagementHR.dll">
+      <publishTime>02/26/2020 10:05:43</publishTime>
+    </File>
+    <File Include="bin/DemandManagementHR.xml">
+      <publishTime>02/26/2020 10:05:43</publishTime>
+    </File>
+    <File Include="css/jquery-ui.css">
+      <publishTime>10/12/2016 10:30:03</publishTime>
+    </File>
+    <File Include="css/jquery-ui.min.css">
+      <publishTime>01/16/2020 15:01:53</publishTime>
+    </File>
+    <File Include="css/select2.min.css">
+      <publishTime>01/16/2020 14:16:42</publishTime>
+    </File>
+    <File Include="css/style.css">
+      <publishTime>11/03/2016 15:56:49</publishTime>
+    </File>
+    <File Include="css/Surrounding.css">
+      <publishTime>10/10/2016 12:13:37</publishTime>
+    </File>
+    <File Include="Download_Failed_Upload.aspx">
+      <publishTime>12/01/2016 10:04:42</publishTime>
+    </File>
+    <File Include="Frm_Edit.aspx">
+      <publishTime>02/25/2020 11:33:32</publishTime>
+    </File>
+    <File Include="Frm_ErrorHandler.aspx">
+      <publishTime>12/02/2016 15:48:50</publishTime>
+    </File>
+    <File Include="Frm_Insert.aspx">
+      <publishTime>02/25/2020 11:33:51</publishTime>
+    </File>
+    <File Include="Frm_List_Empl.aspx">
+      <publishTime>02/26/2020 11:33:26</publishTime>
+    </File>
+    <File Include="Frm_User_Matrix.aspx">
+      <publishTime>11/05/2016 11:26:05</publishTime>
+    </File>
+    <File Include="Home.aspx">
+      <publishTime>11/03/2016 15:16:12</publishTime>
+    </File>
+    <File Include="Images/AXA-Banner.png">
+      <publishTime>05/23/2016 10:48:36</publishTime>
+    </File>
+    <File Include="Images/axa.jpg">
+      <publishTime>10/10/2016 13:39:26</publishTime>
+    </File>
+    <File Include="Images/Edit2.jpg">
+      <publishTime>12/02/2016 09:51:34</publishTime>
+    </File>
+    <File Include="Images/ErrorPage.png">
+      <publishTime>12/02/2016 15:35:17</publishTime>
+    </File>
+    <File Include="Images/HR.png">
+      <publishTime>10/12/2016 15:33:22</publishTime>
+    </File>
+    <File Include="Images/icon.ico">
+      <publishTime>05/23/2016 10:48:36</publishTime>
+    </File>
+    <File Include="Images/images.jpg">
+      <publishTime>10/10/2016 15:10:01</publishTime>
+    </File>
+    <File Include="Images/Login.gif">
+      <publishTime>05/23/2016 10:48:36</publishTime>
+    </File>
+    <File Include="Images/logout.jpg">
+      <publishTime>10/12/2016 10:25:03</publishTime>
+    </File>
+    <File Include="Images/logout.png">
+      <publishTime>05/23/2016 10:48:36</publishTime>
+    </File>
+    <File Include="Images/Logout2.jpg">
+      <publishTime>10/12/2016 14:09:53</publishTime>
+    </File>
+    <File Include="js/index.js">
+      <publishTime>10/12/2016 08:53:50</publishTime>
+    </File>
+    <File Include="js/jquery-1.10.2.js">
+      <publishTime>05/23/2016 10:48:36</publishTime>
+    </File>
+    <File Include="js/jquery-1.8.0.js">
+      <publishTime>05/23/2016 10:48:36</publishTime>
+    </File>
+    <File Include="js/jquery-ui.js">
+      <publishTime>05/23/2016 10:48:36</publishTime>
+    </File>
+    <File Include="js/jquery-ui.min.js">
+      <publishTime>01/16/2020 14:09:59</publishTime>
+    </File>
+    <File Include="js/select2.min.js">
+      <publishTime>01/15/2020 17:01:19</publishTime>
+    </File>
+    <File Include="ListEdit_Employee.aspx">
+      <publishTime>02/26/2020 11:34:06</publishTime>
+    </File>
+    <File Include="Login.aspx">
+      <publishTime>02/05/2020 14:03:48</publishTime>
+    </File>
+    <File Include="Menu/Footer.ascx">
+      <publishTime>11/03/2016 15:34:46</publishTime>
+    </File>
+    <File Include="Menu/Header.ascx">
+      <publishTime>01/16/2020 15:38:11</publishTime>
+    </File>
+    <File Include="Menu/Menu.ascx">
+      <publishTime>10/14/2016 18:14:24</publishTime>
+    </File>
+    <File Include="PopUpEmpl.aspx">
+      <publishTime>02/25/2020 18:41:43</publishTime>
+    </File>
+    <File Include="Refresh.aspx">
+      <publishTime>12/01/2016 17:45:29</publishTime>
+    </File>
+    <File Include="Surrounding.css">
+      <publishTime>11/05/2016 11:31:50</publishTime>
+    </File>
+    <File Include="UploadData.aspx">
+      <publishTime>02/26/2020 10:08:13</publishTime>
+    </File>
+    <File Include="Usermatrix.aspx">
+      <publishTime>01/16/2020 19:25:45</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>02/25/2020 11:29:24</publishTime>
+    </File>
+    <File Include="WebForm1.aspx">
+      <publishTime>11/23/2016 15:31:53</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,24 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+AXA.Framework.DataAccess
+</name>
+</assembly>
+<members>
+<member name="P:AXA.Framework.DataAccess.DataAccessBase.ConnectionString">
+	<summary>
+ Gets or sets the string used to open a SQL Server database.
+ </summary>
+	<returns>The connection string that includes the source database name, and other parameters needed to establish the initial connection.</returns>
+</member><member name="M:AXA.Framework.DataAccess.DataAccessBase.FillDataset(System.String,System.String,System.Data.CommandType,System.Data.SqlClient.SqlParameter[])">
+	<summary>
+ Adds or refreshes rows in the System.Data.DataSet to match those in the data source using the System.Data.DataSet name, and creates a System.Data.DataTable named "Table."
+ </summary>
+	<param name="cmd">The Transact-SQL statement or stored procedure to execute at the data source.</param>
+	<param name="cmdType">A value indicating how the System.Data.SqlClient.SqlCommand.CommandText property is to be interpreted.</param>
+	<param name="parameters">The parameters of the Transact-SQL statement or stored procedure.</param>
+	<returns>A System.Data.Dataset object.</returns>
+</member>
+</members>
+</doc>

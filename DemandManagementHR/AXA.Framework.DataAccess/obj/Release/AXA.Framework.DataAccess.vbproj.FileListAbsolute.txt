@@ -1,0 +1,36 @@
+C:\Project\PA2 on iwan-kania\PA\AXA.Framework.DataAccess\bin\Release\AXA.Framework.DataAccess.dll
+C:\Project\PA2 on iwan-kania\PA\AXA.Framework.DataAccess\bin\Release\AXA.Framework.DataAccess.pdb
+C:\Project\PA2 on iwan-kania\PA\AXA.Framework.DataAccess\bin\Release\AXA.Framework.DataAccess.xml
+C:\Project\PA2 on iwan-kania\PA\AXA.Framework.DataAccess\obj\Release\ResolveAssemblyReference.cache
+C:\Project\PA2 on iwan-kania\PA\AXA.Framework.DataAccess\obj\Release\AXA.Framework.DataAccess.Resources.resources
+C:\Project\PA2 on iwan-kania\PA\AXA.Framework.DataAccess\obj\Release\AXA.Framework.DataAccess.vbproj.GenerateResource.Cache
+C:\Project\PA2 on iwan-kania\PA\AXA.Framework.DataAccess\obj\Release\AXA.Framework.DataAccess.dll
+C:\Project\PA2 on iwan-kania\PA\AXA.Framework.DataAccess\obj\Release\AXA.Framework.DataAccess.xml
+C:\Project\PA2 on iwan-kania\PA\AXA.Framework.DataAccess\obj\Release\AXA.Framework.DataAccess.pdb
+D:\Project\PA2 on iwan-kania\PA\AXA.Framework.DataAccess\bin\Release\AXA.Framework.DataAccess.dll
+D:\Project\PA2 on iwan-kania\PA\AXA.Framework.DataAccess\bin\Release\AXA.Framework.DataAccess.pdb
+D:\Project\PA2 on iwan-kania\PA\AXA.Framework.DataAccess\bin\Release\AXA.Framework.DataAccess.xml
+D:\Project\PA2 on iwan-kania\PA\AXA.Framework.DataAccess\obj\Release\ResolveAssemblyReference.cache
+D:\Project\PA2 on iwan-kania\PA\AXA.Framework.DataAccess\obj\Release\AXA.Framework.DataAccess.Resources.resources
+D:\Project\PA2 on iwan-kania\PA\AXA.Framework.DataAccess\obj\Release\AXA.Framework.DataAccess.vbproj.GenerateResource.Cache
+D:\Project\PA2 on iwan-kania\PA\AXA.Framework.DataAccess\obj\Release\AXA.Framework.DataAccess.dll
+D:\Project\PA2 on iwan-kania\PA\AXA.Framework.DataAccess\obj\Release\AXA.Framework.DataAccess.xml
+D:\Project\PA2 on iwan-kania\PA\AXA.Framework.DataAccess\obj\Release\AXA.Framework.DataAccess.pdb
+D:\Project\PA2 on iwan-kania on asi-it45a\PA\AXA.Framework.DataAccess\bin\Release\AXA.Framework.DataAccess.dll
+D:\Project\PA2 on iwan-kania on asi-it45a\PA\AXA.Framework.DataAccess\bin\Release\AXA.Framework.DataAccess.pdb
+D:\Project\PA2 on iwan-kania on asi-it45a\PA\AXA.Framework.DataAccess\bin\Release\AXA.Framework.DataAccess.xml
+D:\Project\PA2 on iwan-kania on asi-it45a\PA\AXA.Framework.DataAccess\obj\Release\ResolveAssemblyReference.cache
+D:\Project\PA2 on iwan-kania on asi-it45a\PA\AXA.Framework.DataAccess\obj\Release\AXA.Framework.DataAccess.Resources.resources
+D:\Project\PA2 on iwan-kania on asi-it45a\PA\AXA.Framework.DataAccess\obj\Release\AXA.Framework.DataAccess.vbproj.GenerateResource.Cache
+D:\Project\PA2 on iwan-kania on asi-it45a\PA\AXA.Framework.DataAccess\obj\Release\AXA.Framework.DataAccess.dll
+D:\Project\PA2 on iwan-kania on asi-it45a\PA\AXA.Framework.DataAccess\obj\Release\AXA.Framework.DataAccess.xml
+D:\Project\PA2 on iwan-kania on asi-it45a\PA\AXA.Framework.DataAccess\obj\Release\AXA.Framework.DataAccess.pdb
+D:\Project\PA2 on iwan-kania on asi-it45a on yulida-pc\PA\AXA.Framework.DataAccess\bin\Release\AXA.Framework.DataAccess.dll
+D:\Project\PA2 on iwan-kania on asi-it45a on yulida-pc\PA\AXA.Framework.DataAccess\bin\Release\AXA.Framework.DataAccess.pdb
+D:\Project\PA2 on iwan-kania on asi-it45a on yulida-pc\PA\AXA.Framework.DataAccess\bin\Release\AXA.Framework.DataAccess.xml
+D:\Project\PA2 on iwan-kania on asi-it45a on yulida-pc\PA\AXA.Framework.DataAccess\obj\Release\ResolveAssemblyReference.cache
+D:\Project\PA2 on iwan-kania on asi-it45a on yulida-pc\PA\AXA.Framework.DataAccess\obj\Release\AXA.Framework.DataAccess.Resources.resources
+D:\Project\PA2 on iwan-kania on asi-it45a on yulida-pc\PA\AXA.Framework.DataAccess\obj\Release\AXA.Framework.DataAccess.vbproj.GenerateResource.Cache
+D:\Project\PA2 on iwan-kania on asi-it45a on yulida-pc\PA\AXA.Framework.DataAccess\obj\Release\AXA.Framework.DataAccess.dll
+D:\Project\PA2 on iwan-kania on asi-it45a on yulida-pc\PA\AXA.Framework.DataAccess\obj\Release\AXA.Framework.DataAccess.xml
+D:\Project\PA2 on iwan-kania on asi-it45a on yulida-pc\PA\AXA.Framework.DataAccess\obj\Release\AXA.Framework.DataAccess.pdb

@@ -1,0 +1,18 @@
+D:\Project\Free PA\ALI\PA\AXA.Framework.DataAccess\bin\x86\Debug\AXA.Framework.DataAccess.dll
+D:\Project\Free PA\ALI\PA\AXA.Framework.DataAccess\bin\x86\Debug\AXA.Framework.DataAccess.pdb
+D:\Project\Free PA\ALI\PA\AXA.Framework.DataAccess\bin\x86\Debug\AXA.Framework.DataAccess.xml
+D:\Project\Free PA\ALI\PA\AXA.Framework.DataAccess\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Project\Free PA\ALI\PA\AXA.Framework.DataAccess\obj\x86\Debug\AXA.Framework.DataAccess.Resources.resources
+D:\Project\Free PA\ALI\PA\AXA.Framework.DataAccess\obj\x86\Debug\AXA.Framework.DataAccess.vbproj.GenerateResource.Cache
+D:\Project\Free PA\ALI\PA\AXA.Framework.DataAccess\obj\x86\Debug\AXA.Framework.DataAccess.dll
+D:\Project\Free PA\ALI\PA\AXA.Framework.DataAccess\obj\x86\Debug\AXA.Framework.DataAccess.xml
+D:\Project\Free PA\ALI\PA\AXA.Framework.DataAccess\obj\x86\Debug\AXA.Framework.DataAccess.pdb
+C:\Project - Source Code\PTPTTS\AXA.Framework.DataAccess\bin\x86\Debug\AXA.Framework.DataAccess.dll
+C:\Project - Source Code\PTPTTS\AXA.Framework.DataAccess\bin\x86\Debug\AXA.Framework.DataAccess.pdb
+C:\Project - Source Code\PTPTTS\AXA.Framework.DataAccess\bin\x86\Debug\AXA.Framework.DataAccess.xml
+C:\Project - Source Code\PTPTTS\AXA.Framework.DataAccess\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Project - Source Code\PTPTTS\AXA.Framework.DataAccess\obj\x86\Debug\AXA.Framework.DataAccess.Resources.resources
+C:\Project - Source Code\PTPTTS\AXA.Framework.DataAccess\obj\x86\Debug\AXA.Framework.DataAccess.vbproj.GenerateResource.Cache
+C:\Project - Source Code\PTPTTS\AXA.Framework.DataAccess\obj\x86\Debug\AXA.Framework.DataAccess.dll
+C:\Project - Source Code\PTPTTS\AXA.Framework.DataAccess\obj\x86\Debug\AXA.Framework.DataAccess.xml
+C:\Project - Source Code\PTPTTS\AXA.Framework.DataAccess\obj\x86\Debug\AXA.Framework.DataAccess.pdb

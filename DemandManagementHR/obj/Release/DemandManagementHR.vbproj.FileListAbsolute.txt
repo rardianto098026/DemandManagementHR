@@ -1,0 +1,54 @@
+C:\BULAN SUCI  17 JUNI 2019 - 17 APRIL 2020\PROJECT\Demand Management HR\DemandManagementHR\DemandManagementHR\DemandManagementHR\bin\DemandManagementHR.dll.config
+C:\BULAN SUCI  17 JUNI 2019 - 17 APRIL 2020\PROJECT\Demand Management HR\DemandManagementHR\DemandManagementHR\DemandManagementHR\bin\DemandManagementHR.dll
+C:\BULAN SUCI  17 JUNI 2019 - 17 APRIL 2020\PROJECT\Demand Management HR\DemandManagementHR\DemandManagementHR\DemandManagementHR\bin\DemandManagementHR.pdb
+C:\BULAN SUCI  17 JUNI 2019 - 17 APRIL 2020\PROJECT\Demand Management HR\DemandManagementHR\DemandManagementHR\DemandManagementHR\bin\DemandManagementHR.xml
+C:\BULAN SUCI  17 JUNI 2019 - 17 APRIL 2020\PROJECT\Demand Management HR\DemandManagementHR\DemandManagementHR\DemandManagementHR\bin\AXA.Framework.DataAccess.xml
+C:\BULAN SUCI  17 JUNI 2019 - 17 APRIL 2020\PROJECT\Demand Management HR\DemandManagementHR\DemandManagementHR\DemandManagementHR\obj\Release\DemandManagementHR.vbprojResolveAssemblyReference.cache
+C:\BULAN SUCI  17 JUNI 2019 - 17 APRIL 2020\PROJECT\Demand Management HR\DemandManagementHR\DemandManagementHR\DemandManagementHR\obj\Release\DemandManagementHR.Resources.resources
+C:\BULAN SUCI  17 JUNI 2019 - 17 APRIL 2020\PROJECT\Demand Management HR\DemandManagementHR\DemandManagementHR\DemandManagementHR\obj\Release\DemandManagementHR.vbproj.GenerateResource.Cache
+C:\BULAN SUCI  17 JUNI 2019 - 17 APRIL 2020\PROJECT\Demand Management HR\DemandManagementHR\DemandManagementHR\DemandManagementHR\obj\Release\DemandManagementHR.dll
+C:\BULAN SUCI  17 JUNI 2019 - 17 APRIL 2020\PROJECT\Demand Management HR\DemandManagementHR\DemandManagementHR\DemandManagementHR\obj\Release\DemandManagementHR.xml
+C:\BULAN SUCI  17 JUNI 2019 - 17 APRIL 2020\PROJECT\Demand Management HR\DemandManagementHR\DemandManagementHR\DemandManagementHR\obj\Release\DemandManagementHR.pdb
+C:\Users\Rizky Ardianto\Desktop\DemandManagementHR\FIXED\DemandManagementHR\DemandManagementHR\bin\DemandManagementHR.dll.config
+C:\Users\Rizky Ardianto\Desktop\DemandManagementHR\FIXED\DemandManagementHR\DemandManagementHR\bin\DemandManagementHR.dll
+C:\Users\Rizky Ardianto\Desktop\DemandManagementHR\FIXED\DemandManagementHR\DemandManagementHR\bin\DemandManagementHR.pdb
+C:\Users\Rizky Ardianto\Desktop\DemandManagementHR\FIXED\DemandManagementHR\DemandManagementHR\bin\DemandManagementHR.xml
+C:\Users\Rizky Ardianto\Desktop\DemandManagementHR\FIXED\DemandManagementHR\DemandManagementHR\bin\AXA.Framework.DataAccess.xml
+C:\Users\Rizky Ardianto\Desktop\DemandManagementHR\FIXED\DemandManagementHR\DemandManagementHR\obj\Release\DemandManagementHR.vbprojResolveAssemblyReference.cache
+C:\Users\Rizky Ardianto\Desktop\DemandManagementHR\FIXED\DemandManagementHR\DemandManagementHR\obj\Release\DemandManagementHR.Resources.resources
+C:\Users\Rizky Ardianto\Desktop\DemandManagementHR\FIXED\DemandManagementHR\DemandManagementHR\obj\Release\DemandManagementHR.vbproj.GenerateResource.Cache
+C:\Users\Rizky Ardianto\Desktop\DemandManagementHR\FIXED\DemandManagementHR\DemandManagementHR\obj\Release\DemandManagementHR.dll
+C:\Users\Rizky Ardianto\Desktop\DemandManagementHR\FIXED\DemandManagementHR\DemandManagementHR\obj\Release\DemandManagementHR.xml
+C:\Users\Rizky Ardianto\Desktop\DemandManagementHR\FIXED\DemandManagementHR\DemandManagementHR\obj\Release\DemandManagementHR.pdb
+C:\Users\Rizky Ardianto\Desktop\DemandManagementHR\join\DemandManagementHR\DemandManagementHR\bin\DemandManagementHR.dll.config
+C:\Users\Rizky Ardianto\Desktop\DemandManagementHR\join\DemandManagementHR\DemandManagementHR\bin\DemandManagementHR.dll
+C:\Users\Rizky Ardianto\Desktop\DemandManagementHR\join\DemandManagementHR\DemandManagementHR\bin\DemandManagementHR.pdb
+C:\Users\Rizky Ardianto\Desktop\DemandManagementHR\join\DemandManagementHR\DemandManagementHR\bin\DemandManagementHR.xml
+C:\Users\Rizky Ardianto\Desktop\DemandManagementHR\join\DemandManagementHR\DemandManagementHR\bin\AXA.Framework.DataAccess.xml
+C:\Users\Rizky Ardianto\Desktop\DemandManagementHR\join\DemandManagementHR\DemandManagementHR\obj\Release\DemandManagementHR.vbprojResolveAssemblyReference.cache
+C:\Users\Rizky Ardianto\Desktop\DemandManagementHR\join\DemandManagementHR\DemandManagementHR\obj\Release\DemandManagementHR.Resources.resources
+C:\Users\Rizky Ardianto\Desktop\DemandManagementHR\join\DemandManagementHR\DemandManagementHR\obj\Release\DemandManagementHR.vbproj.GenerateResource.Cache
+C:\Users\Rizky Ardianto\Desktop\DemandManagementHR\join\DemandManagementHR\DemandManagementHR\obj\Release\DemandManagementHR.dll
+C:\Users\Rizky Ardianto\Desktop\DemandManagementHR\join\DemandManagementHR\DemandManagementHR\obj\Release\DemandManagementHR.xml
+C:\Users\Rizky Ardianto\Desktop\DemandManagementHR\join\DemandManagementHR\DemandManagementHR\obj\Release\DemandManagementHR.pdb
+C:\Users\bulan suci\Desktop\DemandManagementHR\DemandManagementHR\bin\DemandManagementHR.dll.config
+C:\Users\bulan suci\Desktop\DemandManagementHR\DemandManagementHR\bin\DemandManagementHR.dll
+C:\Users\bulan suci\Desktop\DemandManagementHR\DemandManagementHR\bin\DemandManagementHR.pdb
+C:\Users\bulan suci\Desktop\DemandManagementHR\DemandManagementHR\bin\DemandManagementHR.xml
+C:\Users\bulan suci\Desktop\DemandManagementHR\DemandManagementHR\bin\AXA.Framework.DataAccess.xml
+C:\Users\bulan suci\Desktop\DemandManagementHR\DemandManagementHR\obj\Release\DemandManagementHR.vbprojResolveAssemblyReference.cache
+C:\Users\bulan suci\Desktop\DemandManagementHR\DemandManagementHR\obj\Release\DemandManagementHR.Resources.resources
+C:\Users\bulan suci\Desktop\DemandManagementHR\DemandManagementHR\obj\Release\DemandManagementHR.vbproj.GenerateResource.Cache
+C:\Users\bulan suci\Desktop\DemandManagementHR\DemandManagementHR\obj\Release\DemandManagementHR.dll
+C:\Users\bulan suci\Desktop\DemandManagementHR\DemandManagementHR\obj\Release\DemandManagementHR.xml
+C:\Users\bulan suci\Desktop\DemandManagementHR\DemandManagementHR\obj\Release\DemandManagementHR.pdb
+C:\Users\Rizky Ardianto\Desktop\DemandManagementHR\FIXED\Update Expart\DemandManagementHR\DemandManagementHR\bin\DemandManagementHR.dll.config
+C:\Users\Rizky Ardianto\Desktop\DemandManagementHR\FIXED\Update Expart\DemandManagementHR\DemandManagementHR\bin\DemandManagementHR.dll
+C:\Users\Rizky Ardianto\Desktop\DemandManagementHR\FIXED\Update Expart\DemandManagementHR\DemandManagementHR\bin\DemandManagementHR.pdb
+C:\Users\Rizky Ardianto\Desktop\DemandManagementHR\FIXED\Update Expart\DemandManagementHR\DemandManagementHR\bin\DemandManagementHR.xml
+C:\Users\Rizky Ardianto\Desktop\DemandManagementHR\FIXED\Update Expart\DemandManagementHR\DemandManagementHR\obj\Release\DemandManagementHR.vbprojResolveAssemblyReference.cache
+C:\Users\Rizky Ardianto\Desktop\DemandManagementHR\FIXED\Update Expart\DemandManagementHR\DemandManagementHR\obj\Release\DemandManagementHR.Resources.resources
+C:\Users\Rizky Ardianto\Desktop\DemandManagementHR\FIXED\Update Expart\DemandManagementHR\DemandManagementHR\obj\Release\DemandManagementHR.vbproj.GenerateResource.Cache
+C:\Users\Rizky Ardianto\Desktop\DemandManagementHR\FIXED\Update Expart\DemandManagementHR\DemandManagementHR\obj\Release\DemandManagementHR.dll
+C:\Users\Rizky Ardianto\Desktop\DemandManagementHR\FIXED\Update Expart\DemandManagementHR\DemandManagementHR\obj\Release\DemandManagementHR.xml
+C:\Users\Rizky Ardianto\Desktop\DemandManagementHR\FIXED\Update Expart\DemandManagementHR\DemandManagementHR\obj\Release\DemandManagementHR.pdb

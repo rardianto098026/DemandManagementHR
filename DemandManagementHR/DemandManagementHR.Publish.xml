@@ -1,0 +1,45 @@
+<publishData>
+  <publishTarget publishUrl="C:\Project\OTHER\Publish\ReminderHR\">
+    <file relUrl="Images/ErrorPage.png" publishTime="12/02/2016 15:35:17" />
+    <file relUrl="css/jquery-ui.css" publishTime="10/12/2016 10:30:03" />
+    <file relUrl="AddMasterMenu.aspx" publishTime="11/03/2016 15:16:14" />
+    <file relUrl="Images/logout.png" publishTime="05/23/2016 10:48:36" />
+    <file relUrl="Images/Logout2.jpg" publishTime="10/12/2016 14:09:53" />
+    <file relUrl="css/style.css" publishTime="11/03/2016 15:56:49" />
+    <file relUrl="Frm_ErrorHandler.aspx" publishTime="12/02/2016 15:48:50" />
+    <file relUrl="js/jquery-ui.js" publishTime="05/23/2016 10:48:36" />
+    <file relUrl="AddMasterMenuChild.aspx" publishTime="11/03/2016 15:17:00" />
+    <file relUrl="Frm_User_Matrix.aspx" publishTime="11/05/2016 11:26:05" />
+    <file relUrl="Refresh.aspx" publishTime="12/01/2016 17:45:29" />
+    <file relUrl="Images/AXA-Banner.png" publishTime="05/23/2016 10:48:36" />
+    <file relUrl="Menu/Footer.ascx" publishTime="11/03/2016 15:34:46" />
+    <file relUrl="Images/images.jpg" publishTime="10/10/2016 15:10:01" />
+    <file relUrl="Web.config" publishTime="11/23/2016 13:59:25" />
+    <file relUrl="bin/DemandManagementHR.pdb" publishTime="12/16/2016 09:45:04" />
+    <file relUrl="Images/Login.gif" publishTime="05/23/2016 10:48:36" />
+    <file relUrl="bin/AXA.Framework.DataAccess.pdb" publishTime="12/02/2016 11:42:28" />
+    <file relUrl="bin/DemandManagementHR.xml" publishTime="12/16/2016 09:45:04" />
+    <file relUrl="Login.aspx" publishTime="12/16/2016 09:44:56" />
+    <file relUrl="Frm_List_Empl.aspx" publishTime="12/02/2016 11:50:16" />
+    <file relUrl="UploadData.aspx" publishTime="11/03/2016 15:46:28" />
+    <file relUrl="js/jquery-1.8.0.js" publishTime="05/23/2016 10:48:36" />
+    <file relUrl="css/Surrounding.css" publishTime="10/10/2016 12:13:37" />
+    <file relUrl="Images/Edit2.jpg" publishTime="12/02/2016 09:51:34" />
+    <file relUrl="Download_Failed_Upload.aspx" publishTime="12/01/2016 10:04:42" />
+    <file relUrl="js/index.js" publishTime="10/12/2016 08:53:50" />
+    <file relUrl="WebForm1.aspx" publishTime="11/23/2016 15:31:53" />
+    <file relUrl="Home.aspx" publishTime="11/03/2016 15:16:12" />
+    <file relUrl="Menu/Menu.ascx" publishTime="10/14/2016 18:14:24" />
+    <file relUrl="Images/axa.jpg" publishTime="10/10/2016 13:39:26" />
+    <file relUrl="Images/icon.ico" publishTime="05/23/2016 10:48:36" />
+    <file relUrl="Menu/Header.ascx" publishTime="11/03/2016 15:18:08" />
+    <file relUrl="Images/logout.jpg" publishTime="10/12/2016 10:25:03" />
+    <file relUrl="Images/HR.png" publishTime="10/12/2016 15:33:22" />
+    <file relUrl="bin/AXA.Framework.DataAccess.xml" publishTime="12/02/2016 11:42:28" />
+    <file relUrl="bin/AXA.Framework.DataAccess.dll" publishTime="12/02/2016 11:42:28" />
+    <file relUrl="PopUpEmpl.aspx" publishTime="12/02/2016 11:48:32" />
+    <file relUrl="Surrounding.css" publishTime="11/05/2016 11:31:50" />
+    <file relUrl="bin/DemandManagementHR.dll" publishTime="12/16/2016 09:45:04" />
+    <file relUrl="js/jquery-1.10.2.js" publishTime="05/23/2016 10:48:36" />
+  </publishTarget>
+</publishData>

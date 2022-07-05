@@ -1,0 +1,9 @@
+C:\Project\PA2 on iwan-kania\PA\AXA.Framework.DataAccess\bin\x86\Release\AXA.Framework.DataAccess.dll
+C:\Project\PA2 on iwan-kania\PA\AXA.Framework.DataAccess\bin\x86\Release\AXA.Framework.DataAccess.pdb
+C:\Project\PA2 on iwan-kania\PA\AXA.Framework.DataAccess\bin\x86\Release\AXA.Framework.DataAccess.xml
+C:\Project\PA2 on iwan-kania\PA\AXA.Framework.DataAccess\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Project\PA2 on iwan-kania\PA\AXA.Framework.DataAccess\obj\x86\Release\AXA.Framework.DataAccess.Resources.resources
+C:\Project\PA2 on iwan-kania\PA\AXA.Framework.DataAccess\obj\x86\Release\AXA.Framework.DataAccess.vbproj.GenerateResource.Cache
+C:\Project\PA2 on iwan-kania\PA\AXA.Framework.DataAccess\obj\x86\Release\AXA.Framework.DataAccess.dll
+C:\Project\PA2 on iwan-kania\PA\AXA.Framework.DataAccess\obj\x86\Release\AXA.Framework.DataAccess.xml
+C:\Project\PA2 on iwan-kania\PA\AXA.Framework.DataAccess\obj\x86\Release\AXA.Framework.DataAccess.pdb

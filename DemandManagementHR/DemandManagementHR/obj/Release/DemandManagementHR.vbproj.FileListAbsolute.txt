@@ -1,0 +1,11 @@
+C:\BULAN SUCI  17 JUNI 2019 - 17 APRIL 2020\PROJECT\Demand Management HR\DemandManagementHR\DemandManagementHR\DemandManagementHR\bin\DemandManagementHR.dll.config
+C:\BULAN SUCI  17 JUNI 2019 - 17 APRIL 2020\PROJECT\Demand Management HR\DemandManagementHR\DemandManagementHR\DemandManagementHR\bin\DemandManagementHR.dll
+C:\BULAN SUCI  17 JUNI 2019 - 17 APRIL 2020\PROJECT\Demand Management HR\DemandManagementHR\DemandManagementHR\DemandManagementHR\bin\DemandManagementHR.pdb
+C:\BULAN SUCI  17 JUNI 2019 - 17 APRIL 2020\PROJECT\Demand Management HR\DemandManagementHR\DemandManagementHR\DemandManagementHR\bin\DemandManagementHR.xml
+C:\BULAN SUCI  17 JUNI 2019 - 17 APRIL 2020\PROJECT\Demand Management HR\DemandManagementHR\DemandManagementHR\DemandManagementHR\bin\AXA.Framework.DataAccess.xml
+C:\BULAN SUCI  17 JUNI 2019 - 17 APRIL 2020\PROJECT\Demand Management HR\DemandManagementHR\DemandManagementHR\DemandManagementHR\obj\Release\DemandManagementHR.vbprojResolveAssemblyReference.cache
+C:\BULAN SUCI  17 JUNI 2019 - 17 APRIL 2020\PROJECT\Demand Management HR\DemandManagementHR\DemandManagementHR\DemandManagementHR\obj\Release\DemandManagementHR.Resources.resources
+C:\BULAN SUCI  17 JUNI 2019 - 17 APRIL 2020\PROJECT\Demand Management HR\DemandManagementHR\DemandManagementHR\DemandManagementHR\obj\Release\DemandManagementHR.vbproj.GenerateResource.Cache
+C:\BULAN SUCI  17 JUNI 2019 - 17 APRIL 2020\PROJECT\Demand Management HR\DemandManagementHR\DemandManagementHR\DemandManagementHR\obj\Release\DemandManagementHR.dll
+C:\BULAN SUCI  17 JUNI 2019 - 17 APRIL 2020\PROJECT\Demand Management HR\DemandManagementHR\DemandManagementHR\DemandManagementHR\obj\Release\DemandManagementHR.xml
+C:\BULAN SUCI  17 JUNI 2019 - 17 APRIL 2020\PROJECT\Demand Management HR\DemandManagementHR\DemandManagementHR\DemandManagementHR\obj\Release\DemandManagementHR.pdb

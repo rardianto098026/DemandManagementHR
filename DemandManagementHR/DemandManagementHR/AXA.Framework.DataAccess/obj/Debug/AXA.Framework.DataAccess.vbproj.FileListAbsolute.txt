@@ -1,0 +1,27 @@
+C:\Project\CODING\AHM_PROJECT\AHM_PROJECT\AXA.Framework.DataAccess\bin\Debug\AXA.Framework.DataAccess.dll
+C:\Project\CODING\AHM_PROJECT\AHM_PROJECT\AXA.Framework.DataAccess\bin\Debug\AXA.Framework.DataAccess.pdb
+C:\Project\CODING\AHM_PROJECT\AHM_PROJECT\AXA.Framework.DataAccess\bin\Debug\AXA.Framework.DataAccess.xml
+C:\Project\CODING\AHM_PROJECT\AHM_PROJECT\AXA.Framework.DataAccess\obj\Debug\ResolveAssemblyReference.cache
+C:\Project\CODING\AHM_PROJECT\AHM_PROJECT\AXA.Framework.DataAccess\obj\Debug\AXA.Framework.DataAccess.Resources.resources
+C:\Project\CODING\AHM_PROJECT\AHM_PROJECT\AXA.Framework.DataAccess\obj\Debug\AXA.Framework.DataAccess.vbproj.GenerateResource.Cache
+C:\Project\CODING\AHM_PROJECT\AHM_PROJECT\AXA.Framework.DataAccess\obj\Debug\AXA.Framework.DataAccess.dll
+C:\Project\CODING\AHM_PROJECT\AHM_PROJECT\AXA.Framework.DataAccess\obj\Debug\AXA.Framework.DataAccess.xml
+C:\Project\CODING\AHM_PROJECT\AHM_PROJECT\AXA.Framework.DataAccess\obj\Debug\AXA.Framework.DataAccess.pdb
+C:\Project\CODING\DemandManagementHR\DemandManagementHR\DemandManagementHR\AXA.Framework.DataAccess\bin\Debug\AXA.Framework.DataAccess.dll
+C:\Project\CODING\DemandManagementHR\DemandManagementHR\DemandManagementHR\AXA.Framework.DataAccess\bin\Debug\AXA.Framework.DataAccess.pdb
+C:\Project\CODING\DemandManagementHR\DemandManagementHR\DemandManagementHR\AXA.Framework.DataAccess\bin\Debug\AXA.Framework.DataAccess.xml
+C:\Project\CODING\DemandManagementHR\DemandManagementHR\DemandManagementHR\AXA.Framework.DataAccess\obj\Debug\ResolveAssemblyReference.cache
+C:\Project\CODING\DemandManagementHR\DemandManagementHR\DemandManagementHR\AXA.Framework.DataAccess\obj\Debug\AXA.Framework.DataAccess.Resources.resources
+C:\Project\CODING\DemandManagementHR\DemandManagementHR\DemandManagementHR\AXA.Framework.DataAccess\obj\Debug\AXA.Framework.DataAccess.vbproj.GenerateResource.Cache
+C:\Project\CODING\DemandManagementHR\DemandManagementHR\DemandManagementHR\AXA.Framework.DataAccess\obj\Debug\AXA.Framework.DataAccess.dll
+C:\Project\CODING\DemandManagementHR\DemandManagementHR\DemandManagementHR\AXA.Framework.DataAccess\obj\Debug\AXA.Framework.DataAccess.xml
+C:\Project\CODING\DemandManagementHR\DemandManagementHR\DemandManagementHR\AXA.Framework.DataAccess\obj\Debug\AXA.Framework.DataAccess.pdb
+C:\Users\Rizky Ardianto\Desktop\DemandManagementHR\DemandManagementHR\DemandManagementHR\AXA.Framework.DataAccess\bin\Debug\AXA.Framework.DataAccess.dll
+C:\Users\Rizky Ardianto\Desktop\DemandManagementHR\DemandManagementHR\DemandManagementHR\AXA.Framework.DataAccess\bin\Debug\AXA.Framework.DataAccess.pdb
+C:\Users\Rizky Ardianto\Desktop\DemandManagementHR\DemandManagementHR\DemandManagementHR\AXA.Framework.DataAccess\bin\Debug\AXA.Framework.DataAccess.xml
+C:\Users\Rizky Ardianto\Desktop\DemandManagementHR\DemandManagementHR\DemandManagementHR\AXA.Framework.DataAccess\bin\Debug\stdole.dll
+C:\Users\Rizky Ardianto\Desktop\DemandManagementHR\DemandManagementHR\DemandManagementHR\AXA.Framework.DataAccess\obj\Debug\AXA.Framework.DataAccess.Resources.resources
+C:\Users\Rizky Ardianto\Desktop\DemandManagementHR\DemandManagementHR\DemandManagementHR\AXA.Framework.DataAccess\obj\Debug\AXA.Framework.DataAccess.vbproj.GenerateResource.Cache
+C:\Users\Rizky Ardianto\Desktop\DemandManagementHR\DemandManagementHR\DemandManagementHR\AXA.Framework.DataAccess\obj\Debug\AXA.Framework.DataAccess.dll
+C:\Users\Rizky Ardianto\Desktop\DemandManagementHR\DemandManagementHR\DemandManagementHR\AXA.Framework.DataAccess\obj\Debug\AXA.Framework.DataAccess.xml
+C:\Users\Rizky Ardianto\Desktop\DemandManagementHR\DemandManagementHR\DemandManagementHR\AXA.Framework.DataAccess\obj\Debug\AXA.Framework.DataAccess.pdb
